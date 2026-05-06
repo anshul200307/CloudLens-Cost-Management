@@ -30,7 +30,7 @@ system with anomaly detection.
 ## Result
 
 
-![Email Proof](email_screenshot.png)
+![Email Proof](email_proof.jpeg)
 
 
 
